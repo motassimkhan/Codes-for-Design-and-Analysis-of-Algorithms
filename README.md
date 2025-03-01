@@ -88,4 +88,3 @@ This repository contains implementations of various algorithms covered in the **
 - Optimal Binary Search Trees
 - N-Queens Problem
 - Graph Coloring
-- Hamiltonian Cycles
